@@ -10,9 +10,8 @@ AdjMat = zeros(length(nodes),length(nodes));
 for i = 1:length(nodes)
     row = bsearch(nodes,edge(i,1),0,length(nodes));
     column = bsearch(nodes,edge(i,2),0,length(nodes));
-    if row < 286 && column < 286
-        A(row,column) = 1;
-    end
+    
+    A(row,column) = 1;
 end
 
 % we have the adjacency matrix
