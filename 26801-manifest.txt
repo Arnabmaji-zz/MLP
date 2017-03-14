@@ -1,0 +1,60 @@
+File Manifest for ICPSR 26801
+
+Paskus, Thomas. NCAA Division I Academic Progress Rate, 2003-2014.
+ICPSR26801-v4. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2015-08-18.
+http://doi.org/10.3886/ICPSR26801.v4
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    26801-related_literature.txt        -       -         -       2017-03-08  -
+
+    26801-manifest.txt                  -       -         -       2017-03-09  -
+
+
+DS0001 NCAA Division I Academic Progress Rate, 2003-2014
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    26801-0001-Codebook.pdf             -       -         -       2015-08-18  da2772c33a40ea1a02c581803c03b173
+
+    26801-0001-Data.dta                 -       6,511     76      2015-08-18  9a29ddcc1a0956bec62ce9dcef9e1594
+
+    26801-0001-Data.rda                 -       6,511     76      2015-08-18  0ee4094dc119cc6687d224d4ca32ec0a
+
+    26801-0001-Data.sav                 -       6,511     76      2015-08-18  b3f4646c9ed487e1a910fbdbc8d0ad61
+
+    26801-0001-Data.stc                 -       6,511     76      2015-08-18  e121a3fb6c347cb224f0cef1630f6c56
+
+    26801-0001-Data.tsv                 -       6,511     76      2015-08-18  f311486fe558d955fa4f425f104d0b78
+
+    26801-0001-Data.txt                 629     6,511     76      2015-08-18  60195dce8ff2b1b703ba98d24e15229c
+
+    26801-0001-Setup.dct                -       -         -       2015-08-18  dc3eb587a6c7c00361d03b60271f8cff
+
+    26801-0001-Setup.do                 -       -         -       2015-08-18  a502a9dd6282ac6211aacd20478a2558
+
+    26801-0001-Setup.sas                -       -         -       2015-08-18  b541341158f060bfa9e6e2a66c0aec02
+
+    26801-0001-Setup.sps                -       -         -       2015-08-18  c53ba83068fe85659d4ced046f5f4f62
+
+    26801-0001-Supplemental_syntax.do   -       -         -       2015-08-18  eda1e465f437a01c382bc68da70f4b6e
+
+    26801-0001-Supplemental_syntax.sas  -       -         -       2015-08-18  26f834380b98203634bde9323703c768
+
+
+Version History
+
+2015-08-18 The data and documentation have been updated.  2013-10-31 The
+data and documentation have been updated.  2013-10-14 The data and the
+documentation have been updated.  2012-12-21 The data and the documentation
+have been updated.  2011-07-06 The data and the documentation have been
+updated.  2010-01-07 A processing note was added and minor edits were made
+to the metadata.
